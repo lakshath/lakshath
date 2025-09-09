@@ -7,7 +7,7 @@ Front-End Developer
 I have been learning to code for the past two months. During this time, I have gained a solid foundation in basic Python, HTML, and CSS. I am currently exploring JavaScript and have already created my first website. I am very excited to continue expanding my coding skills and knowledge.
 
 * 🌍  I'm based in India.
-* 🖥️  See my portfolio at [www.lakshath888.com](http://lakshath888.netlify.app)
+* 🖥️  See my portfolio at (https://lakshath.webflow.io/))
 * 🧠  I'm learning Front-End Development.
 * ⚡  Specializing in front-end development with a focus on creating responsive and user-friendly web applications will be fun.
 
