@@ -1,7 +1,7 @@
 <!-- HERO -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=6366F1&center=true&vCenter=true&width=600&lines=LAKSHATH;SEO+%2B+SYSTEMS+BUILDER;BUILDING+FOR+SCALE+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=6366F1&center=true&vCenter=true&width=700&lines=LAKSHATH;SEO+%2B+SYSTEMS+BUILDER;BUILDING+SCALABLE+INTERNET+PRODUCTS+🚀" />
 
 ### ⚡ Digital Marketer · SEO Specialist · Web Developer
 
@@ -12,7 +12,7 @@
   <a href="mailto:14ksh8th@gmail.com">
     <img src="https://img.shields.io/badge/📧 Email-Connect-ec4899?style=for-the-badge"/>
   </a>
-  <a href="https://linkedin.com/in/lakshath">
+  <a href="https://linkedin.com/in/lakshath/">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-Network-0A66C2?style=for-the-badge"/>
   </a>
 </p>
@@ -23,77 +23,106 @@
 
 ---
 
-## 🧠 WHO I AM
+## 🧠 POSITIONING
 
-- I build **SEO-driven systems**, not just websites  
-- Focused on **scalable growth + automation**  
-- Developer mindset → I build tools, not depend on them  
+> I build **SEO-driven systems** that generate traffic, not just websites.
 
-📍 Bangalore, India  
-
----
-
-## ⚡ CURRENT FOCUS
-
-- 🚀 Building: **OwnStreet (SaaS)**
-- 📚 Learning: SEO automation, SaaS growth
-- 🎯 Goal: Build scalable internet products
+- 📈 Strong in **Technical · On-page · Off-page SEO**
+- ⚙️ Combine **development + marketing → scalable growth systems**
+- 🚀 Focused on **products, automation, and organic acquisition**
 
 ---
 
-## 📊 GITHUB STATS
+## ⚡ CURRENT BUILD
 
-<div align="center">
+### 🚀 OwnStreet (Founder)
+- UPI-first SaaS for Indian creators to sell digital products  
+- Building **conversion-focused storefronts + automated delivery**
+- Solving **manual Instagram selling workflows**
+- Features: payments, analytics, product delivery  
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=lakshath&show_icons=true&theme=radical&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshath&layout=compact&theme=radical&hide_border=true"/>
+---
 
-</div>
+## 💼 EXPERIENCE
+
+### 📊 Vaidyog — SEO & Marketing Intern *(Jan 2026 – Apr 2026)*
+
+- Executed **large-scale off-page SEO** (10+ backlink categories)
+- Sent **10+ daily outreach emails** → partnerships & brand awareness  
+- Built **blog.vaidyog.com** (HTML, CSS, JS + AI tools)  
+- Performed **full SEO setup** (meta, indexing, sitemap, internal linking)  
+- Published **SEO-optimized blogs** targeting search intent  
+- Designed **3+ daily creatives** for social & WhatsApp  
+- Managed **content + short-form video edits**  
+- Conducted **keyword research, audits, competitor analysis**
 
 ---
 
 ## 🚀 PROJECTS
 
-| Project | Stack | Links |
-|--------|------|------|
-| OwnStreet | Next.js · Supabase · Tailwind | [Code](https://github.com/lakshath/ownstreet) · [Live](https://ownstreet.in) |
-| Portfolio | Next.js · Tailwind | [Code](https://github.com/lakshath/lakshath-portfolio) |
-| EatMyGreens | HTML · CSS · JS | [Live](https://eatmygreens.netlify.app) |
-| Trishola | SEO · UI/UX | [Live](https://trishola.com) |
+### 🥬 EatMyGreens
+- Microgreens business website  
+- Built with **clean UI + SEO-first structure**
+- Implemented **meta, performance optimization, analytics tracking**
+
+### 🧠 Trishola
+- Personal development blog platform  
+- SEO-focused content system with **long-form blogs + keyword strategy**
+- Clean UI/UX, fast load, mobile-first design
 
 ---
 
-## 🛠️ TECH STACK
+## 📊 PROOF OF WORK
 
-**SEO:** Ahrefs · SEMrush · GA4 · Search Console  
-**Dev:** Next.js · React · Tailwind · Supabase  
-**Tools:** Figma · Canva · YouTube Studio  
+- 📈 **980K+ YouTube views · 2.8K+ subs** (SEO-driven growth)
+- 🌐 Built multiple **SEO-optimized websites from scratch**
+- 🧩 Executed **real-world SEO at scale (Vaidyog)**
+- 🚀 Founder of **OwnStreet (SaaS in progress)**
 
 ---
 
-## 📈 YOUTUBE
+## 🛠️ CORE SKILLS
 
-**jobless_edits**  
-🔥 1M+ Views · 2.8K+ Subs  
+**SEO:**  
+Keyword Research · Technical SEO · On-page · Off-page · Audits · Search Intent  
+
+**Content:**  
+SEO blogs · YouTube SEO · Content systems · Strategy  
+
+**Development:**  
+Next.js · HTML · CSS · Deployment · SEO-friendly architecture  
+
+**UI/UX:**  
+Minimal design · Conversion-focused layouts · Mobile-first  
+
+---
+
+## ⚙️ TOOLS STACK
+
+**SEO & Analytics:**  
+GA4 · GSC · Ahrefs · SEMrush · Screaming Frog  
+
+**Development:**  
+Vercel · Netlify · GitHub · VS Code  
+
+**Design & Content:**  
+Figma · Canva · YouTube Studio · VidIQ · TubeBuddy  
+
+**AI & Automation:**  
+ChatGPT · Claude · DeepSeek · Perplexity · Gemini  
 
 ---
 
 ## 🎓 EDUCATION
 
-B.Com — Bangalore North University  
-*Final sem completed*
+**B.Com — Bangalore North University**  
+Final semesters completed · Results pending  
 
 ---
 
-## 🧠 PHILOSOPHY
+## 🧠 BUILDER MINDSET
 
-> Most people use tools.  
-> I build systems.
+```text
+Most people learn tools.
 
----
-
-<div align="center">
-
-### 🚀 Open to startups, SaaS & growth roles
-
-</div>
+I build systems that replace them.
