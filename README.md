@@ -1,19 +1,24 @@
 <!-- HERO -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=6366F1&center=true&vCenter=true&width=700&lines=LAKSHATH;SEO+%2B+SYSTEMS+BUILDER;BUILDING+SCALABLE+INTERNET+PRODUCTS+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=6366F1&center=true&vCenter=true&width=700&lines=LAKSHATH;FOUNDER+OF+OWNSTREET;UPI-FIRST+CREATOR+COMMERCE" />
 
-### ⚡ Digital Marketer · SEO Specialist · Web Developer
+### Founder · ownstreet.in
+
+**Digital store + bio link for Indian creators. UPI checkout. 0% platform fee.**
 
 <p>
-  <a href="https://lakshath.ownstreet.in">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-6366f1?style=for-the-badge"/>
+  <a href="https://ownstreet.in">
+    <img src="https://img.shields.io/badge/ownstreet-Live_product-6366f1?style=for-the-badge"/>
   </a>
-  <a href="mailto:14ksh8th@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-Connect-ec4899?style=for-the-badge"/>
+  <a href="https://ownstreet.in/marketplace">
+    <img src="https://img.shields.io/badge/Marketplace-Browse-10b981?style=for-the-badge"/>
+  </a>
+  <a href="mailto:ownstreet.in@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ownstreet-ec4899?style=for-the-badge"/>
   </a>
   <a href="https://linkedin.com/in/lakshath/">
-    <img src="https://img.shields.io/badge/🔗 LinkedIn-Network-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-lakshath-0A66C2?style=for-the-badge"/>
   </a>
 </p>
 
@@ -23,106 +28,82 @@
 
 ---
 
-## 🧠 POSITIONING
+## ownstreet (Founder)
 
-> I build **SEO-driven systems** that generate traffic, not just websites.
+India-first SaaS: **bio link + digital product store** with Razorpay UPI, instant file delivery, bank payouts, and marketplace discovery.
 
-- 📈 Strong in **Technical · On-page · Off-page SEO**
-- ⚙️ Combine **development + marketing → scalable growth systems**
-- 🚀 Focused on **products, automation, and organic acquisition**
+| | |
+|---|---|
+| Creators on platform | **700+** |
+| GMV processed | **₹80,000+** |
+| Completed sales | **450+** |
+| Live products | **200+** |
+| Pricing | Free · Pro ₹299/mo · Pro Max ₹799/mo |
+| Platform fee on sales | **0%** |
 
----
+**What I shipped**
+- Storefronts, checkout, webhooks, payouts (BYOK + bank payouts)
+- Free / Pro / Pro Max billing
+- Creator marketplace, analytics, email delivery, PDF tools
+- SEO content system for Indian creator search
 
-## ⚡ CURRENT BUILD
-
-### 🚀 OwnStreet (Founder)
-- UPI-first SaaS for Indian creators to sell digital products  
-- Building **conversion-focused storefronts + automated delivery**
-- Solving **manual Instagram selling workflows**
-- Features: payments, analytics, product delivery  
-
----
-
-## 💼 EXPERIENCE
-
-### 📊 Vaidyog — SEO & Marketing Intern *(Jan 2026 – Apr 2026)*
-
-- Executed **large-scale off-page SEO** (10+ backlink categories)
-- Sent **10+ daily outreach emails** → partnerships & brand awareness  
-- Built **blog.vaidyog.com** (HTML, CSS, JS + AI tools)  
-- Performed **full SEO setup** (meta, indexing, sitemap, internal linking)  
-- Published **SEO-optimized blogs** targeting search intent  
-- Designed **3+ daily creatives** for social & WhatsApp  
-- Managed **content + short-form video edits**  
-- Conducted **keyword research, audits, competitor analysis**
+Live: [ownstreet.in](https://ownstreet.in)
 
 ---
 
-## 🚀 PROJECTS
+## Positioning
 
-### 🥬 EatMyGreens
-- Microgreens business website  
-- Built with **clean UI + SEO-first structure**
-- Implemented **meta, performance optimization, analytics tracking**
+I build **products that make money for other people**, then grow them with SEO and systems.
 
-### 🧠 Trishola
-- Personal development blog platform  
-- SEO-focused content system with **long-form blogs + keyword strategy**
-- Clean UI/UX, fast load, mobile-first design
+- Founder, not intern-for-hire
+- Full-stack (Next.js, Supabase, Vercel) + SEO + payments
+- Obsessed with Indian mobile checkout (UPI, INR, WhatsApp traffic)
 
 ---
 
-## 📊 PROOF OF WORK
+## Other builds
 
-- 📈 **980K+ YouTube views · 2.8K+ subs** (SEO-driven growth)
-- 🌐 Built multiple **SEO-optimized websites from scratch**
-- 🧩 Executed **real-world SEO at scale (Vaidyog)**
-- 🚀 Founder of **OwnStreet (SaaS in progress)**
+**EatMyGreens**  
+Microgreens site. SEO-first structure, meta, performance, analytics.
 
----
-
-## 🛠️ CORE SKILLS
-
-**SEO:**  
-Keyword Research · Technical SEO · On-page · Off-page · Audits · Search Intent  
-
-**Content:**  
-SEO blogs · YouTube SEO · Content systems · Strategy  
-
-**Development:**  
-Next.js · HTML · CSS · Deployment · SEO-friendly architecture  
-
-**UI/UX:**  
-Minimal design · Conversion-focused layouts · Mobile-first  
+**Trishola**  
+Personal-development blog. Long-form SEO, mobile-first, fast load.
 
 ---
 
-## ⚙️ TOOLS STACK
+## Proof of work
 
-**SEO & Analytics:**  
-GA4 · GSC · Ahrefs · SEMrush · Screaming Frog  
-
-**Development:**  
-Vercel · Netlify · GitHub · VS Code  
-
-**Design & Content:**  
-Figma · Canva · YouTube Studio · VidIQ · TubeBuddy  
-
-**AI & Automation:**  
-ChatGPT · Claude · DeepSeek · Perplexity · Gemini  
+- **ownstreet:** 700+ creators · ₹80k+ GMV · 450+ paid orders · 200+ live products
+- **YouTube:** 980k+ views · 2.8k+ subs (SEO-led growth)
+- Shipped production payments (Razorpay), auth, storage, crons, not just landing pages
 
 ---
 
-## 🎓 EDUCATION
+## Skills
+
+**Product / payments:** Razorpay · UPI · subscriptions · webhooks · payouts  
+**Dev:** Next.js · TypeScript · Supabase · Vercel · Git  
+**SEO:** Technical · on-page · content systems · search intent  
+**Growth:** Creator funnels · marketplace · email · analytics  
+
+---
+
+## Stack
+
+**Product:** Next.js · Supabase · Vercel · Razorpay · Resend  
+**SEO:** GA4 · GSC · Ahrefs · Screaming Frog  
+**Design:** Figma · Canva  
+**AI:** Claude · ChatGPT · Cursor  
+
+---
+
+## Education
 
 **B.Com — Bangalore North University**  
-Final semesters completed · Results pending  
+Final semesters completed. Results pending.
 
 ---
-
-## 🧠 BUILDER MINDSET
 
 ```text
 Most people learn tools.
-
-I build systems that replace them.
+I ship a live product and iterate on real users.
